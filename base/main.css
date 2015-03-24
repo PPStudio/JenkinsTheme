@@ -1,0 +1,29 @@
+* {
+	font-size: 12px;
+}
+
+#main-panel-content > div.tabBarFrame > div.tabBar > div:nth-child(1) {
+	display: none;
+}
+
+img.icon-red {
+	content: url("icons/red.png");
+}
+img.icon-yellow {
+	content: url("icons/yellow.png");
+}
+img.icon-blue {
+	content: url("icons/blue.png");
+}
+img.icon-grey {
+	content: url("icons/grey.png");
+}
+img.icon-disabled {
+	content: url("icons/disabled.png");
+}
+img.icon-aborted {
+	content: url("icons/aborted.png");
+}
+img.icon-nobuilt {
+	content: url("icons/nobuilt.png");
+}
