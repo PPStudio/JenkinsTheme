@@ -5,6 +5,53 @@
 #main-panel-content > div.tabBarFrame > div.tabBar > div:nth-child(1) {
 	display: none;
 }
+#page-head > #header {
+	display: none;
+}
+
+#projectstatus > tbody > tr.header > th:nth-child(1) {
+	width: 1px;
+}
+#projectstatus > tbody > tr.header > th:nth-child(1) > a {
+	display: none;
+}
+#projectstatus > tbody > tr.header > th:nth-child(2) {
+	width: 1px;
+}
+#projectstatus > tbody > tr.header > th:nth-child(2) > a {
+	display: none;
+}
+
+#projectstatus > tbody > tr.header > th:nth-last-child(3) {
+	width: 1px;
+}
+#projectstatus > tbody > tr.header > th:nth-last-child(3) > a {
+	display: none;
+}
+#projectstatus > tbody > tr.header > th:nth-last-child(2) {
+	width: 1px;
+}
+#projectstatus > tbody > tr.header > th:nth-last-child(2) > a {
+	display: none;
+}
+#projectstatus > tbody > tr.header > th:nth-last-child(1) {
+	width: 1px;
+}
+#projectstatus > tbody > tr.header > th:nth-last-child(1) > a {
+	display: none;
+}
+
+
+#projectstatus th {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#projectstatus th:last-child {
+	display: none;
+}
+#projectstatus td:last-child {
+	display: none;
+}
 
 img.icon-red {
 	content: url("icons/red.png");
