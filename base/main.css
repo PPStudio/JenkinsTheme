@@ -1,5 +1,5 @@
 * {
-	font-size: 12px;
+	font-size: 12px !important;
 }
 
 #main-panel-content > div.tabBarFrame > div.tabBar > div:nth-child(1) {
