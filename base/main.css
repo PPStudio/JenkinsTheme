@@ -74,3 +74,8 @@ img.icon-aborted {
 img.icon-nobuilt {
 	content: url("icons/nobuilt.png");
 }
+
+
+.tabBar .tab:first-child {
+    display: none;
+}
