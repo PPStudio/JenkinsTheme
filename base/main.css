@@ -77,5 +77,8 @@ img.icon-nobuilt {
 
 
 .tabBar .tab:first-child {
-    display: none;
+    /*display: none;*/
+}
+.bigtable td {
+    white-space: nowrap;;
 }
